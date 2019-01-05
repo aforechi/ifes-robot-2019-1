@@ -1,0 +1,14 @@
+name: robot-ifes
+channels:
+  - conda-forge
+dependencies:
+  - octave_kernel
+  - python==3.6
+  - notebook
+  - matplotlib
+  - scipy
+  - numpy
+  - pandas
+  - pip:
+    - cvxpy
+
