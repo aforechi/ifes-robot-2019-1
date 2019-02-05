@@ -1,3 +1,2 @@
 octave
 gnuplot
-vtk6
